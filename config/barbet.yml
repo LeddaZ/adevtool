@@ -1,8 +1,0 @@
-device:
-  name: barbet
-
-platform:
-  product_makefile: device/google/barbet/aosp_barbet.mk
-
-includes:
-  - common/gen5pixel.yml

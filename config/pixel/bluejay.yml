@@ -4,11 +4,14 @@ device:
 platform:
   product_makefile: device/google/bluejay/aosp_bluejay.mk
 
+  sepolicy_dirs:
+    - device/google/bluejay-sepolicy
+
 includes:
-  - common/gen6pixel.yml
+  - snippets/2021.yml
 
 filters:
   overlay_files:
     match:
-      # aapt2 parsing bug encountered within adevtool
+      # Workaround for aapt2 output parsing bug
       - HbmSVManager__auto_generated_rro_product.apk

@@ -5,4 +5,4 @@ platform:
   product_makefile: device/google/pantah/aosp_cheetah.mk
 
 includes:
-  - common/gen7pixel.yml
+  - snippets/2022.yml

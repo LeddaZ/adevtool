@@ -1,0 +1,9 @@
+# Extreme Battery Saver
+filters:
+  files:
+    match:
+      - system_ext/app/Flipendo/Flipendo.apk
+
+  sepolicy_dirs:
+    match:
+      - hardware/google/pixel-sepolicy/flipendo

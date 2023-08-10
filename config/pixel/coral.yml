@@ -5,4 +5,4 @@ platform:
   product_makefile: device/google/coral/aosp_coral.mk
 
 includes:
-  - common/gen4pixel.yml
+  - snippets/2019.yml

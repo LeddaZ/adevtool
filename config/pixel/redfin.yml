@@ -5,4 +5,4 @@ platform:
   product_makefile: device/google/redfin/aosp_redfin.mk
 
 includes:
-  - common/gen5pixel.yml
+  - snippets/2020.yml

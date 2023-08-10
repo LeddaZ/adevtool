@@ -5,4 +5,4 @@ platform:
   product_makefile: device/google/sunfish/aosp_sunfish.mk
 
 includes:
-  - common/gen4.5pixel.yml
+  - snippets/2020.yml
