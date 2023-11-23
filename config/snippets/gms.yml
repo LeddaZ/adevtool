@@ -66,6 +66,23 @@ filters:
       - system/priv-app/GoogleExtServices/GoogleExtServices.apk
       - system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk
       - system/priv-app/TagGoogle/TagGoogle.apk
+      - system_ext/priv-app/AccessibilityMenu/AccessibilityMenu.apk
+      - product/priv-app/AICorePrebuilt/AICorePrebuilt.apk
+      - product/priv-app/AiWallpapers/AiWallpapers.apk
+      - product/priv-app/HealthIntelligenceStubPrebuilt/HealthIntelligenceStubPrebuilt.apk
+      - system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk
+      - system_ext/priv-app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk
+      - system_ext/priv-app/SystemUIClocks-Flex/SystemUIClocks-Flex.apk
+      - system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
+      - system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
+      - system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
+      - system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Weather.apk
+      - system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Metro.apk
+      - product/app/MeetPrebuilt/MeetPrebuilt.apk
+      - product/priv-app/PixelSupportPrebuilt/PixelSupportPrebuilt.apk
+      - system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk
+      - product/app/SwitchAccessPrebuilt/SwitchAccessPrebuilt.apk
+      - product/priv-app/WeatherPixelPrebuilt/WeatherPixelPrebuilt.apk
 
       # Permissions
       - product/etc/permissions/privapp-permissions-google-p.xml
