@@ -6,3 +6,8 @@ platform:
 
 includes:
   - snippets/2021.yml
+
+filters:
+  files:
+    match:
+    - vendor/etc/displayconfig/display_id_4619827677550801152.xml
