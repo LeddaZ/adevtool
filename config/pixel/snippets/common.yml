@@ -246,10 +246,6 @@ filters:
       - product/priv-app/DeviceIntelligenceNetworkPrebuilt
       - product/priv-app/GoogleRestorePrebuilt
 
-      # Charger
-      - vendor/etc/res/images/charger
-      - vendor/etc/res/values/charger
-
   overlay_keys:
     match:
       # Safety
