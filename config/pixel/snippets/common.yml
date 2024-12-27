@@ -332,6 +332,7 @@ filters:
       - com.android.server.telecom:string/dialer_default_class
       - com.android.traceur:bool/config_hspa_data_distinguishable
       - android:string-array/config_defaultFirstUserRestrictions
+      - android:string-array/config_defaultPinnerServiceFiles
       - android:string-array/config_keep_warming_services
       - android:bool/config_enableFusedLocationOverlay
       - android:bool/config_enableGeocoderOverlay
