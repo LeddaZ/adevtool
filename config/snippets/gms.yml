@@ -91,6 +91,7 @@ filters:
       - product/priv-app/PrebuiltGmsCore/
       - product/usr/share/ime/google/
       - product/usr/srec/
+      - system_ext/priv-app/DeviceConnectivityServicePrebuilt_
 
   overlay_values:
     substring:
