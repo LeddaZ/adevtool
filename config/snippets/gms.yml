@@ -79,6 +79,7 @@ filters:
       - product/app/MeetPrebuilt_
       - product/app/PrebuiltDeskClockGoogle_
       - product/app/SoundAmplifierPrebuilt_
+      - product/app/SoundPickerPrebuilt_
       - product/app/SwitchAccessPrebuilt_
       - product/etc/security/fsverity/
       - product/etc/sysconfig/preinstalled-packages-
